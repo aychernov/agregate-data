@@ -126,6 +126,5 @@ dmypy.json
 
 # Project
 data/
-dags/
 logs/
 cred.py
